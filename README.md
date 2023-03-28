@@ -1,3 +1,11 @@
+> **Warning**
+>
+> This repository is not maintained anymore, get `zbctl` from asdf using https://github.com/camunda-community-hub/asdf-zbctl instead.
+
+---
+
+
+
 <div align="center">
 
 # asdf-zbctl [![Build](https://github.com/multani/asdf-zbctl/actions/workflows/build.yml/badge.svg)](https://github.com/multani/asdf-zbctl/actions/workflows/build.yml) [![Lint](https://github.com/multani/asdf-zbctl/actions/workflows/lint.yml/badge.svg)](https://github.com/multani/asdf-zbctl/actions/workflows/lint.yml)
